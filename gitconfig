@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = danny.mw1991@gmail.com
+	name = Daniel Maile-Wilson
